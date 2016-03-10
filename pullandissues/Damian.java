@@ -13,4 +13,5 @@ import javax.swing.JOptionPane;
  */
 public class Damian {
    int variable=0;
+   float cosa;
 }
