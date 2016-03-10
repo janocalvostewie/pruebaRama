@@ -5,10 +5,12 @@
  */
 package pullandissues;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author damian
  */
 public class Damian {
-    
+   int variable=0;
 }
